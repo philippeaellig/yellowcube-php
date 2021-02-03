@@ -10,6 +10,10 @@
         {
             "name": "Adrian Philipp",
             "email": "adrian.philipp@liip.ch"
+        },
+        {
+            "name": "Philippe Aellig",
+            "email": "philippe.aellig@weloveyou.ch"
         }
     ],
     "autoload": {
@@ -19,8 +23,8 @@
     },
     "require": {
         "ext-soap": "*",
-        "php": ">=5.3",
-        "beberlei/assert": "~2.0",
+        "php": ">=7.2",
+        "beberlei/assert": "^3.3",
         "course-hero/wse-php": "~2.0",
         "psr/log": "~1.0"
     },
